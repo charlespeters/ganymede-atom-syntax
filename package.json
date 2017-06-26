@@ -1,7 +1,7 @@
 {
   "name": "ganymede-atom-syntax",
   "theme": "syntax",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An Atom Editor port of Ganymede",
   "keywords": [
     "syntax",
